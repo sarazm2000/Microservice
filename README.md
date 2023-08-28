@@ -26,7 +26,9 @@ docker -v
 `
 
 
+<p style="text-align: center;">
 <img width="682" alt="image16" src="https://github.com/sarazm2000/Microservice/assets/59636948/6fc8bf5a-1646-487b-8ff9-3ea7bb264583">
+</p>
 
 
 برای این پروژه از پایگاه داده‌ی MySQL استفاده میکنیم. از دستور زیر برای pull کردن image آن استفاده میکنیم.
