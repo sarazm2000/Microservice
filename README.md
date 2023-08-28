@@ -43,20 +43,20 @@ docker pull mysql
 
 در زیر داکر فایل ها و فایل nginx را مشاهده میکنید.
 
-## داکرفایل سیستم دیتابیس:
+## داکرفایل سیستم دیتابیس
 
 <img width="867" alt="image2" src="https://github.com/sarazm2000/Microservice/assets/59636948/26d10986-b2b7-444f-999d-861fce6c296c">
 
-## داکرفایل سرویس منطق:
+## داکرفایل سرویس منطق
 
 
 <img width="740" alt="image5" src="https://github.com/sarazm2000/Microservice/assets/59636948/df6396b0-4c5a-434b-bebb-619e482ac12a">
 
-## Nginx.conf:
+## Nginx.conf
 
 <img width="866" alt="image13" src="https://github.com/sarazm2000/Microservice/assets/59636948/85f1ea39-915f-439c-a84d-55211d0ed8ab">
 
-## UML:
+## UML
 
 <img width="437" alt="image17" src="https://github.com/sarazm2000/Microservice/assets/59636948/327170d3-aa4b-4c72-b0e2-13a770d313a1">
 
@@ -74,11 +74,11 @@ docker-compose up --build
 ![image15](https://github.com/sarazm2000/Microservice/assets/59636948/b97e4308-9c43-4366-b3aa-0726b05bdbbd)
 
 با مشاهده پیغام Connected to MySQL database برنامه در حال اجرا است و میتوانیم از سرویس استفاده کنیم.
-## تست کارکردن API ها:
+## تست کارکردن API ها
 
 در ادامه با استفاده از postman همه‌ی APIها را تست کردیم و خروجی را در تصاویر مشاهده میکنید.
 
-### ساختن جدول در دیتابیس:
+### ساختن جدول در دیتابیس
 
 ![image14](https://github.com/sarazm2000/Microservice/assets/59636948/fb02584b-7f5f-4ae5-8db6-e7cce1d9b092)
 
@@ -96,14 +96,14 @@ docker-compose up --build
 ![image8](https://github.com/sarazm2000/Microservice/assets/59636948/46ea3e8b-249d-4380-8f2e-22444bb2eaca)
 
 
-### خواندن یک todo:
+### خواندن یک todo
 
 
 ![image11](https://github.com/sarazm2000/Microservice/assets/59636948/fd4fde58-32a2-4ed3-919e-f2259256ee80)
 
 
 
- ### آپدیت کردن todo:
+ ### آپدیت کردن todo
 
 
  ![image3](https://github.com/sarazm2000/Microservice/assets/59636948/a07709fe-0de1-419a-8cb0-ec962ccb728e)
@@ -112,7 +112,7 @@ docker-compose up --build
 ![image8](https://github.com/sarazm2000/Microservice/assets/59636948/02849fd6-59c0-4c30-a9c4-d03b0164a371)
 
 
-### حذف todo:
+### حذف todo
 
 
 
@@ -122,7 +122,7 @@ docker-compose up --build
 ![image12](https://github.com/sarazm2000/Microservice/assets/59636948/28e63471-09b8-4133-93ee-01e7df773810)
 
 
-## اجرای دستورات گفته شده:
+## اجرای دستورات گفته شده
 
 دستورات زیر را اجرا میکنیم:
 
